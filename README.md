@@ -1,12 +1,8 @@
-THIS PROJECT IS DEPRECATED, SWITCH TO BRUCE FW, [HERE](https://github.com/andreock/Bruce) IS MY FORK, OFFICIAL [HERE](https://github.com/pr3y/Bruce)
-
-# CapibaraZero firmware
+# Berserk Firmware
 
 <img src="https://github.com/CapibaraZero/.github/blob/main/logo.png?raw=true" width="256" />
 
 ---
-
-## ANNOUNCEMENT: Now CapibaraZero is available for SBC that runs Linux(Raspberry Pi, OrangePi, ...). [Here](https://github.com/CapibaraZero/fw_linux) you can find more information.
 
 CapibaraZero aim to be a cheap alternative to FlipperZero™. It's based on ESP32 boards especially on ESP32-S3 but we want to port firmware to all ESP family boards.
 
